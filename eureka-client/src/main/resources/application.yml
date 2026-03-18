@@ -9,3 +9,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
+
+youtube:
+  api:
+    key: YOUR_YOUTUBE_API_KEY
